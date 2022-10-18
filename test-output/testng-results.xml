@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10694" started-at="2022-10-18T09:43:30 IST" finished-at="2022-10-18T09:43:41 IST">
+  <suite name="Suite" duration-ms="13444" started-at="2022-10-18T20:55:15 IST" finished-at="2022-10-18T20:55:28 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10694" started-at="2022-10-18T09:43:30 IST" finished-at="2022-10-18T09:43:41 IST">
+    <test name="Test" duration-ms="13444" started-at="2022-10-18T20:55:15 IST" finished-at="2022-10-18T20:55:28 IST">
       <class name="scripts.Testcase1">
-        <test-method status="PASS" signature="openApp()[pri:0, instance:scripts.Testcase1@5bb21b69]" name="openApp" is-config="true" duration-ms="2411" started-at="2022-10-18T09:43:30 IST" finished-at="2022-10-18T09:43:32 IST">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:scripts.Testcase1@6b9651f3]" name="openApp" is-config="true" duration-ms="2538" started-at="2022-10-18T20:55:15 IST" finished-at="2022-10-18T20:55:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method status="PASS" signature="tc1()[pri:0, instance:scripts.Testcase1@5bb21b69]" name="tc1" duration-ms="7543" started-at="2022-10-18T09:43:32 IST" finished-at="2022-10-18T09:43:40 IST">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:scripts.Testcase1@6b9651f3]" name="tc1" duration-ms="10114" started-at="2022-10-18T20:55:17 IST" finished-at="2022-10-18T20:55:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc1 -->
-        <test-method status="PASS" signature="closeApp()[pri:0, instance:scripts.Testcase1@5bb21b69]" name="closeApp" is-config="true" duration-ms="706" started-at="2022-10-18T09:43:40 IST" finished-at="2022-10-18T09:43:41 IST">
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:scripts.Testcase1@6b9651f3]" name="closeApp" is-config="true" duration-ms="759" started-at="2022-10-18T20:55:27 IST" finished-at="2022-10-18T20:55:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
       </class> <!-- scripts.Testcase1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
